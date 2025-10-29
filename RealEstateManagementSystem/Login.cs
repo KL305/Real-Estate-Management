@@ -37,7 +37,7 @@ namespace RealEstateManagementSystem
                 this.Hide();
                 adminForm.Show();
                 Show();
-
+                //blockkkkki
             }
             else if (txtUsername.Text.Equals("seller") || txtPassword.Equals("seller123"))
             {
@@ -59,4 +59,5 @@ namespace RealEstateManagementSystem
         }
     }
 }
+
 
