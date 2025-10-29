@@ -21,7 +21,7 @@ namespace RealEstateManagementSystem
 
         private void txtUsername_TextChanged(object sender, EventArgs e)
         {
-//commend 
+//commend
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
@@ -59,5 +59,6 @@ namespace RealEstateManagementSystem
         }
     }
 }
+
 
 
